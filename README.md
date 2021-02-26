@@ -1,4 +1,4 @@
-# Breaking Bad Cast ()
+# Breaking Bad Cast
 
 Using public api of Breaking Bad
 
@@ -7,5 +7,7 @@ Using public api of Breaking Bad
 In the project directory, you can run:
 
 `npm install`
+
 `npm start`
+
 `npm run build`
